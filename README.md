@@ -30,15 +30,20 @@ Copy and paste these prompts into a `Google Doc`. Steps on how to create a googl
 Describe the conversations you had this sprint with your product owner(s) and team.
 
 - Describe the product and features you plan to deliver.
+    With Granted we plan on delivering a website where grant applicants, grant writers, and grant holders can come together and find the people that they need to complete their grant process. Grant writers can post previous grants they have written for as a portfolio per se, applicants can look through all the grant writers and find someone to help them write their grant, and they can also look for what grants are available from the grant holders. 
 - How did these conversations determine the features you will deliver during Labs?
+    I want to say that at the beginning it was just mainly supposed to focus on grant writers and applicants but after a few team meetings, we figured there was nothing and no reason stopping us from making it an all around grant accessible site. We want it to be a one-stop shop if you are working with anything to do with grants. We plan on also implementing a payment system that way you can go ahead and pay whichever grant writer you decide to go with.
 - How did your discussions change the way you viewed the product?
+    As I said before, after the team meetings, we decided to stretch the project a little further than what was originally visioned. With everyone having their own strengths and with everyone willing to push themselves with new concepts and with some willing to even pick up new languages, we figure as a team we have everything we need combined to get a fully functional, well rounded Grant website created.
 
 ### Prompt 2
 
 Describe the technical or design discussions that shaped the long-term product vision.
 
 - **For data scientists and engineers:** Describe the technologies that you will use to build this product. Why do they fit the product vision?
+    We've landed on using React/Redux for our frontend with styling using Material UI. Not only have most of us used these methods before, we figure it would be the easiest and quickest way to deliver a solid project within the first round of release. We're going to incorporate a payment system with Stripe as well as a direct messaging feature for the grant applicant and grant writers to communicate. The backend will be done using Node and Postgres to handle the grant and user data.
 - **For UX designers:** Describe the questions that you are asking during user research. Why have you selected these questions to ask? What is the problem your team is trying to solve?
+    The problem our team is trying to solve is the bridge between writers and applicants mainly. We want an easy communication system. We have reached out to grant writers as well as people that have applied for grants before and asked what complications they have run into as well as what services they used during the process and what they would change about it. We listened to their feedback and are actually still taking user research today to continue to get suggestions for what would make an easy steamlined grant process.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Journal Entry grade. Skipping this section _will_ prevent you from passing this challenge.
 
